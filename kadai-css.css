@@ -8,6 +8,7 @@ header {
 #wrapper {
     display: flex;
     justify-content: flex-start;
+    width: 1000px;
 }
 
 #main {
